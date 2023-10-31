@@ -278,7 +278,7 @@ EOF
 systemctl daemon-reload && systemctl restart containerd
 ```
 
-### 安装****kubelet, kubeadm and kubectl****
+### 安装kubelet kubeadm kubectl
 
 **Add repo**
 
@@ -294,7 +294,7 @@ gpgkey=https://mirrors.aliyun.com/kubernetes/yum/doc/yum-key.gpg https://mirrors
 EOF
 ```
 
-I**nstall**
+**Install**
 
 ```bash
 sudo yum install -y kubelet kubeadm kubectl
