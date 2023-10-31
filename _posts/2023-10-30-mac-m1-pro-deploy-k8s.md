@@ -40,7 +40,7 @@ UTM安装RockyLinux过程不赘述，可以参考视频 [https://www.youtube.com
 
 我这里启动了三台虚拟机，master01、node01、node02，配置都是4c4g 100G硬盘。
 
-![image](/assets/lib/2023-10-30-mac-m1-pro上搭建k8s集群/utm.png){: width="500" }
+![image](/assets/img/2023-10-30-mac-m1-pro-deploy-k8s/utm.png){: width="500" }
 
 **注意：**
 
